@@ -1,0 +1,15 @@
+
+Connected with a client!
+Connected with a client!
+[Received]: /register pablo 123
+[User Created]: pablo
+[Received]: /login pablo 123
+[Logged In]: pablo
+[pablo]: hello
+[Received]: /register juan 123
+[User Created]: juan
+[Received]: /login juan 123
+[Logged In]: juan
+[juan]: hello
+[Client Error]: A Client Disconnected
+[Client Error]: A Client Disconnected

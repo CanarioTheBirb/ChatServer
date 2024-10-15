@@ -1,0 +1,9 @@
+﻿  main.cpp
+  Message.cpp
+  Server.cpp
+D:\repos\ChatServer\ChatServer\Server.cpp(164,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 598 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ChatServer.vcxproj -> D:\repos\ChatServer\x64\Release\ChatServer.exe

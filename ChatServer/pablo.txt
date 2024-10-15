@@ -1,0 +1,19 @@
+
+/list
+Current logged in Users:
+-pablo
+
+hello
+juan: hello
+maria: hello
+/send maria sup
+/list
+Current logged in Users:
+-pablo
+-maria
+
+/list
+Current logged in Users:
+-pablo
+
+/log
